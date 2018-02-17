@@ -179,11 +179,11 @@ header{
 	right: 50%;
 	transform: translate(50%,-50%);
 	width: 85%;
-	border-top: 6px solid #021C26;
+	border-top: 6px solid #bbbbbb;
 	padding-top: 30px;
 	height: 375px;
 	min-width: 986px;
-    border-radius: 25px;
+    border-radius: 0px;
 }
 .how_to_step{
 	width: 25%;
